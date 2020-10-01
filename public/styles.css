@@ -97,3 +97,10 @@ dd dl .term {
   margin: 0 auto;
 
 }
+
+@media only screen and (max-width : 370px) {
+  .dictionary {
+    flex-direction : column;
+  }
+}
+ 
